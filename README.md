@@ -1,2 +1,3 @@
-# Reloj-digital-sobre-checkbox
-Reloj digital el cual reprensenta la hora con checkbox marcados.
+# Reloj digital sobre checkbox en java.
+
+Reloj digital el cual obtiene la hora del sistema y la reprensenta con checkbox marcados.
