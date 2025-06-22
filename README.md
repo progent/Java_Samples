@@ -1,4 +1,4 @@
-# Some Java Samples
+# Java Samples
 
 
 
