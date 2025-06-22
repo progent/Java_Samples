@@ -1,8 +1,4 @@
-# Reloj Digital con Checkbox / Java SE - Swing.
+# Some Java Samples
 
-Detalle:
-
-Reloj Digital el cual obtiene la hora del sistema y la reprensenta graficamente con checkbox marcados. 
-(Ver Sample.jpg).
 
 
