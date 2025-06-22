@@ -1,4 +1,4 @@
-# Java Samples
+# Java - samples,gist,docs,etc.
 
 
 
