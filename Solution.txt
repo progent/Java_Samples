@@ -1,0 +1,16 @@
+Unpacking index for central repository (takes too long) [Solved]. 
+
+Netbeans Version 8.2
+
+Follow Steps:
+
+1. Select Tool, Options.
+
+2. Select Java Option 
+3. Select Tab Maven  
+4. Select Option Index and On Index Update Frecuency Select Never.
+   Apply and Restart IDE. 
+   
+   
+Source:   
+https://www.youtube.com/watch?v=eJW8VAqCnYI&ab_channel=devilrhook  
